@@ -1,1 +1,2 @@
 my first txt file to commit to github!
+and second commit
